@@ -1,0 +1,67 @@
+.intro{
+    background-color: #1b263b;
+}
+
+.name{
+    color:aliceblue;
+    font-family: 'Playfair Display', serif;
+    font-size: 3rem;
+}
+
+.description{
+    font-family: 'Inter', sans-serif;
+    color:#778da9;
+}
+.bio{
+    background-color: #0d1b2a;
+}
+
+.biocutout{
+    background-color: #E0E1DD;
+}
+
+.fullbio{
+    font-family: 'Inter', sans-serif;
+    color:#0D1B2A;
+}
+
+.biotitle{
+    color:black;
+    font-family: 'Playfair Display', serif;
+    font-size: 2.5rem;
+}
+
+.pfp{
+    border-radius: 10%;
+    border-color: #FFFFFA;
+    border-style: solid;
+}
+
+.achievements{
+    background-color: #415a77;
+    color:#FFFFFA;
+}
+
+.foot{
+    background-color: #778da9;
+}
+
+.projects{
+    background-color: #0d1b2a;
+}
+
+.socialmedia{
+    width: 200%;
+    height: auto;
+}
+
+.achieveboxes{
+    width: 3rem;
+    height: 3rem;
+    border-radius: 0.75rem;
+}
+
+.achieveicons{
+    width:75%;
+    height:auto;
+}
